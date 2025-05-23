@@ -1,0 +1,814 @@
+<!-- GURU CARDS FILE -->
+
+<div id="guruContainer">
+  <div class="guru-card" data-score="2.3" data-name="tradewith.coachbri" data-bs="2">
+    <div class="guru-header vertical">
+      <div class="guru-name">@tradewith.coachbri</div>
+      <div class="top-row">
+        <div class="guru-photo">
+          <img src="https://i.imgur.com/ATGSVDX_d.webp?maxwidth=760&fidelity=grand" alt="Profile Picture" />
+        </div>
+        <div class="guru-info">
+  <div class="guru-tagline">"Helping Traders Get Funded"</div>
+  <div class="overall-row">
+    <div class="candles" data-score="2.3"></div>
+    <div class="overall-score">2.3</div>
+  </div>
+</div>
+    </div>
+
+    <div class="ratings">
+      <div class="rating-item">Transparency<div class="candlestick-rating" data-score="2"></div></div>
+      <div class="rating-item">Proof of Performance<div class="candlestick-rating" data-score="2"></div></div>
+      <div class="rating-item">Educational Value<div class="candlestick-rating" data-score="3"></div></div>
+      <div class="rating-item">Price-to-Value<div class="candlestick-rating" data-score="2"></div></div>
+      <div class="rating-item">BS Meter<div class="candlestick-rating" data-score="2"></div></div>
+      <div class="rating-item">Responsiveness<div class="candlestick-rating" data-score="3"></div></div>
+    </div>
+
+    <div class="verdict">
+      <div class="short-verdict">
+        <strong>Overall Verdict: 2.3 / 5<br>Motivational Focus with Limited Transparency</strong><br>
+        Coach Bri offers inspiration and support but lacks transparency and depth when it comes to real results or robust education.
+      </div>
+      <div class="full-verdict">
+        <p><strong>Transparency  ★★☆☆☆ (2/5)</strong><br>• Shares motivational trading content.<br>• Performance claims not backed with data.<br><em>Verdict:</em> Lacks trade transparency.</p>
+        <p><strong>Proof of Performance  ★★☆☆☆ (2/5)</strong><br>• Mentions passing challenges, but no screenshots or links.<br><em>Verdict:</em> Performance claims are vague.</p>
+        <p><strong>Educational Value  ★★★☆☆ (3/5)</strong><br>• Discord group includes trade ideas and coaching.<br><em>Verdict:</em> Helpful to some, but lacks structured education.</p>
+        <p><strong>Price-to-Value  ★★☆☆☆ (2/5)</strong><br>• Unclear pricing and no public breakdown of offerings.<br><em>Verdict:</em> Low transparency on what you're paying for.</p>
+        <p><strong>BS Meter  ★★☆☆☆ (2/5)</strong><br>• Focuses on motivational content and empowerment.<br><em>Verdict:</em> Low-level hype, not overly misleading.</p>
+        <p><strong>Responsiveness & Attitude   ★★★☆☆ (3/5)</strong><br>• Appears friendly and responsive to followers.<br><em>Verdict:</em> Encouraging and positive presence.</p>
+      </div>
+      <button class="toggle-btn" onclick="toggleReview(this)">Read More</button>
+    </div>
+  </div>
+</div>
+
+<div class="guru-card" data-score="2.1" data-name="youngbullinvestors" data-bs="2">
+  <div class="guru-header vertical">
+    <div class="guru-name">@youngbullinvestors</div>
+    <div class="top-row">
+      <div class="guru-photo">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA2acSJaIugK3euq8YSzCAGEilhltsEbtwyw&s" alt="Profile Picture" />
+      </div>
+      <div class="guru-info">
+        <div class="guru-tagline">"Helping new traders with step-by-step guidance"</div>
+        <div class="overall-row">
+          <div class="candles" data-score="2.1"></div>
+          <div class="overall-score">2.1</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="ratings">
+    <div class="rating-item">Transparency<div class="candlestick-rating" data-score="2"></div></div>
+    <div class="rating-item">Proof of Performance<div class="candlestick-rating" data-score="1"></div></div>
+    <div class="rating-item">Educational Value<div class="candlestick-rating" data-score="3"></div></div>
+    <div class="rating-item">Price-to-Value<div class="candlestick-rating" data-score="2"></div></div>
+    <div class="rating-item">BS Meter<div class="candlestick-rating" data-score="2"></div></div>
+    <div class="rating-item">Responsiveness<div class="candlestick-rating" data-score="3"></div></div>
+  </div>
+
+  <div class="verdict">
+    <div class="short-verdict">
+      <strong>Overall Verdict: 2.1 / 5<br>Community Builder, But Light on Evidence</strong><br>
+      Provides motivation and structure for new traders, but lacks transparency and trackable performance.
+    </div>
+    <div class="full-verdict">
+      <p><strong>Transparency  ★★☆☆☆ (2/5)</strong><br>
+      • Presents as a mentor and trading coach.<br>
+      • Does not offer publicly verified trading records.<br>
+      <em>Verdict:</em> Messaging is polished, but there's little proof behind the claims.</p>
+
+      <p><strong>Proof of Performance  ★☆☆☆☆ (1/5)</strong><br>
+      • No live trades, PnL records, or pass links shown.<br>
+      • Leans on testimonials and group growth as success markers.<br>
+      <em>Verdict:</em> No verifiable results shared.</p>
+
+      <p><strong>Educational Value  ★★★☆☆ (3/5)</strong><br>
+      • Provides content for beginner traders including Discord and video modules.<br>
+      • Emphasizes mindset and psychology.<br>
+      <em>Verdict:</em> Decent entry-level structure, though limited technical depth.</p>
+
+      <p><strong>Price-to-Value  ★★☆☆☆ (2/5)</strong><br>
+      • Subscription includes signals, Zoom calls, and Discord access.<br>
+      • Value is questionable given the lack of data or track record.<br>
+      <em>Verdict:</em> Offers support, but lacks substance for the price.</p>
+
+      <p><strong>BS Meter  ★★☆☆☆ (2/5)</strong><br>
+      • Avoids outright hype but makes vague claims like “we print”.<br>
+      • Some language verges on guru speak.<br>
+      <em>Verdict:</em> Not egregious, but not clean either.</p>
+
+      <p><strong>Responsiveness & Attitude  ★★★☆☆ (3/5)</strong><br>
+      • Active in Discord and social DMs.<br>
+      • Friendly tone and strong community presence.<br>
+      <em>Verdict:</em> Supportive, especially for new traders.</p>
+    </div>
+    <button class="toggle-btn" onclick="toggleReview(this)">Read More</button>
+  </div>
+</div>
+
+<div class="guru-card" data-score="2.4" data-name="thetradingchamp" data-bs="2">
+  <div class="guru-header vertical">
+    <div class="guru-name">@thetradingchamp</div>
+    <div class="top-row">
+      <div class="guru-photo">
+        <img src="https://pbs.twimg.com/profile_images/1820998909797253120/t5qJh4BA_400x400.jpg" alt="Profile Picture" />
+      </div>
+      <div class="guru-info">
+        <div class="guru-tagline">"Helping traders win through simplicity"</div>
+        <div class="overall-row">
+          <div class="candles" data-score="2.4"></div>
+          <div class="overall-score">2.4</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="ratings">
+    <div class="rating-item">Transparency<div class="candlestick-rating" data-score="2"></div></div>
+    <div class="rating-item">Proof of Performance<div class="candlestick-rating" data-score="2"></div></div>
+    <div class="rating-item">Educational Value<div class="candlestick-rating" data-score="3"></div></div>
+    <div class="rating-item">Price-to-Value<div class="candlestick-rating" data-score="2"></div></div>
+    <div class="rating-item">BS Meter<div class="candlestick-rating" data-score="2"></div></div>
+    <div class="rating-item">Responsiveness<div class="candlestick-rating" data-score="3"></div></div>
+  </div>
+
+  <div class="verdict">
+    <div class="short-verdict">
+      <strong>Overall Verdict: 2.4 / 5<br>Simplified Signals with Limited Substance</strong><br>
+      Offers an accessible signal-based experience for beginners, but lacks accountability and depth in trading education.
+    </div>
+    <div class="full-verdict">
+      <p><strong>Transparency  ★★☆☆☆ (2/5)</strong><br>
+      • Shares frequent wins, but little detail on risk, losses, or long-term stats.<br>
+      • Most trade results shown in hindsight or selectively.<br>
+      <em>Verdict:</em> Surface-level transparency.</p>
+
+      <p><strong>Proof of Performance  ★★☆☆☆ (2/5)</strong><br>
+      • No third-party verified records or consistent tracking.<br>
+      • Often uses vague screenshots or recaps without timestamps.<br>
+      <em>Verdict:</em> No concrete proof, just marketing.</p>
+
+      <p><strong>Educational Value  ★★★☆☆ (3/5)</strong><br>
+      • Simple explanations of setups and entries.<br>
+      • Focus is mostly on copy-style signals over deep strategy learning.<br>
+      <em>Verdict:</em> Helpful for beginners but lacks structure for serious traders.</p>
+
+      <p><strong>Price-to-Value  ★★☆☆☆ (2/5)</strong><br>
+      • Monthly group costs may exceed content quality.<br>
+      • Most value appears to come from signals rather than core education.<br>
+      <em>Verdict:</em> Not a bad intro for some, but questionable ROI.</p>
+
+      <p><strong>BS Meter  ★★☆☆☆ (2/5)</strong><br>
+      • Messaging leans into hype: “We win together,” “Sniper entries,” etc.<br>
+      • Results framed for impact rather than education.<br>
+      <em>Verdict:</em> Light BS with Instagram polish.</p>
+
+      <p><strong>Responsiveness & Attitude  ★★★☆☆ (3/5)</strong><br>
+      • Frequently responds to comments and shares community wins.<br>
+      • Maintains a positive tone with followers.<br>
+      <em>Verdict:</em> Good community presence and energy.</p>
+    </div>
+    <button class="toggle-btn" onclick="toggleReview(this)">Read More</button>
+  </div>
+</div>
+
+<div class="guru-card" data-score="3.3" data-name="chloectrades" data-bs="4">
+  <div class="guru-header vertical">
+    <div class="guru-name">@chloectrades</div>
+    <div class="top-row">
+      <div class="guru-photo">
+        <img src="https://static.wixstatic.com/media/6c45ae_81de5bb533ab4443a6e8822f6f4f8e9f~mv2.jpg/v1/crop/x_102,y_392,w_2069,h_2143/fill/w_520,h_536,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_8697_Original%20(1)_edited.jpg" alt="Profile Picture" />
+      </div>
+      <div class="guru-info">
+        <div class="guru-tagline">"Day Trader, I trade options trading book for beginners"</div>
+        <div class="overall-row">
+          <div class="candles" data-score="3.3"></div>
+          <div class="overall-score">3.3</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="ratings">
+    <div class="rating-item">Transparency<div class="candlestick-rating" data-score="3"></div></div>
+    <div class="rating-item">Proof of Performance<div class="candlestick-rating" data-score="2"></div></div>
+    <div class="rating-item">Educational Value<div class="candlestick-rating" data-score="4"></div></div>
+    <div class="rating-item">Price-to-Value<div class="candlestick-rating" data-score="3"></div></div>
+    <div class="rating-item">BS Meter<div class="candlestick-rating" data-score="4"></div></div>
+    <div class="rating-item">Responsiveness<div class="candlestick-rating" data-score="4"></div></div>
+  </div>
+
+  <div class="verdict">
+    <div class="short-verdict">
+      <strong>Overall Verdict: 3.3 / 5<br>Beginner-Friendly Educator with a Realistic Approach</strong><br>
+      Chloe offers valuable entry-level resources and avoids hype, but lacks third-party verified performance to validate her success claims.
+    </div>
+    <div class="full-verdict">
+      <p><strong>Transparency  ★★★☆☆ (3/5)</strong><br>
+      • Shares her journey from engineer to full-time trader.<br>
+      • No third-party verified performance metrics.<br>
+      <em>Verdict:</em> Open about her story, but lacks data transparency.</p>
+
+      <p><strong>Proof of Performance  ★★☆☆☆ (2/5)</strong><br>
+      • No track record or third-party verified stats.<br>
+      • Shares trading mindset and lessons, not proof.<br>
+      <em>Verdict:</em> No objective performance evidence provided.</p>
+
+      <p><strong>Educational Value  ★★★★☆ (4/5)</strong><br>
+      • Offers an eBook, course, and Discord focused on beginners.<br>
+      • Covers psychology, technicals, and backtesting.<br>
+      <em>Verdict:</em> Well-structured beginner content.</p>
+
+      <p><strong>Price-to-Value  ★★★☆☆ (3/5)</strong><br>
+      • eBook: $52.99, Course: $125, Discord: $175.<br>
+      • Good structure and community for newer traders.<br>
+      <em>Verdict:</em> Good value if you're just starting out.</p>
+
+      <p><strong>BS Meter  ★★★★☆ (4/5)</strong><br>
+      • Avoids overhype or flashy results.<br>
+      • Encourages consistency and realistic goals.<br>
+      <em>Verdict:</em> Low on BS — honest tone.</p>
+
+      <p><strong>Responsiveness & Attitude  ★★★★☆ (4/5)</strong><br>
+      • Regularly engages on social platforms.<br>
+      • Supportive, motivational tone.<br>
+      <em>Verdict:</em> Strong community engagement and encouragement.</p>
+    </div>
+    <button class="toggle-btn" onclick="toggleReview(this)">Read More</button>
+  </div>
+</div>
+
+<div class="guru-card" data-score="2.3" data-name="jacktradessss" data-bs="2">
+  <div class="guru-header vertical">
+    <div class="guru-name">@jacktradessss</div>
+    <div class="top-row">
+      <div class="guru-photo">
+        <img src="https://yt3.googleusercontent.com/Y2An-kyQWuKKHaodEf3_4ApGYzQTu5FbNGARqb8vZfFJ43E9d3Th8lCyjfl_9A7TDSMEBgUDAw=s900-c-k-c0x00ffffff-no-rj" alt="Profile Picture" />
+      </div>
+      <div class="guru-info">
+        <div class="guru-tagline">"I teach people how to trade like a professional"</div>
+        <div class="overall-row">
+          <div class="candles" data-score="2.3"></div>
+          <div class="overall-score">2.3</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="ratings">
+    <div class="rating-item">Transparency<div class="candlestick-rating" data-score="2"></div></div>
+    <div class="rating-item">Proof of Performance<div class="candlestick-rating" data-score="2"></div></div>
+    <div class="rating-item">Educational Value<div class="candlestick-rating" data-score="3"></div></div>
+    <div class="rating-item">Price-to-Value<div class="candlestick-rating" data-score="2"></div></div>
+    <div class="rating-item">BS Meter<div class="candlestick-rating" data-score="2"></div></div>
+    <div class="rating-item">Responsiveness<div class="candlestick-rating" data-score="3"></div></div>
+  </div>
+
+  <div class="verdict">
+    <div class="short-verdict">
+      <strong>Overall Verdict: 2.3 / 5<br>Motivational Presence with Limited Trading Transparency</strong><br>
+      Jack Trades brings community energy and positive vibes, but falls short on proof and pricing clarity.
+    </div>
+    <div class="full-verdict">
+      <p><strong>Transparency  ★★☆☆☆ (2/5)</strong><br>
+      • Shares his trading journey and mindset publicly.<br>
+      • Offers educational content but no verified track record.<br>
+      <em>Verdict:</em> Engaging persona, but lacks real proof.</p>
+
+      <p><strong>Proof of Performance  ★★☆☆☆ (2/5)</strong><br>
+      • Mentions Discord signals and live sessions.<br>
+      • No accessible or third-party verified results.<br>
+      <em>Verdict:</em> Claims without evidence.</p>
+
+      <p><strong>Educational Value  ★★★☆☆ (3/5)</strong><br>
+      • Offers Discord, mentorship, and market analysis.<br>
+      • Caters to newer traders with motivational material.<br>
+      <em>Verdict:</em> Practical for beginners, but not deeply technical.</p>
+
+      <p><strong>Price-to-Value  ★★☆☆☆ (2/5)</strong><br>
+      • Discord access is $100/month, with a 7-day free trial.<br>
+      • No clear breakdown of content or features.<br>
+      <em>Verdict:</em> Steep for what’s publicly visible.</p>
+
+      <p><strong>BS Meter  ★★☆☆☆ (2/5)</strong><br>
+      • Some freedom-based lifestyle marketing.<br>
+      • Makes vague references to success without context.<br>
+      <em>Verdict:</em> Hype level medium — not egregious.</p>
+
+      <p><strong>Responsiveness & Attitude  ★★★☆☆ (3/5)</strong><br>
+      • Active on socials and appears positive.<br>
+      • Builds a community-focused environment.<br>
+      <em>Verdict:</em> Friendly presence with decent engagement.</p>
+    </div>
+    <button class="toggle-btn" onclick="toggleReview(this)">Read More</button>
+  </div>
+</div>
+
+<div class="guru-card" data-score="2.7" data-name="austinsilverfx" data-bs="3">
+  <div class="guru-header vertical">
+    <div class="guru-name">@austinsilverfx</div>
+    <div class="top-row">
+      <div class="guru-photo">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd09a6dOUQRJ_cv0Q9wBx_guf5ITiav8KXdw&s" alt="Profile Picture" />
+      </div>
+      <div class="guru-info">
+        <div class="guru-tagline">"Learn to trade the right way"</div>
+        <div class="overall-row">
+          <div class="candles" data-score="2.7"></div>
+          <div class="overall-score">2.7</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="ratings">
+    <div class="rating-item">Transparency<div class="candlestick-rating" data-score="3"></div></div>
+    <div class="rating-item">Proof of Performance<div class="candlestick-rating" data-score="2"></div></div>
+    <div class="rating-item">Educational Value<div class="candlestick-rating" data-score="4"></div></div>
+    <div class="rating-item">Price-to-Value<div class="candlestick-rating" data-score="2"></div></div>
+    <div class="rating-item">BS Meter<div class="candlestick-rating" data-score="3"></div></div>
+    <div class="rating-item">Responsiveness<div class="candlestick-rating" data-score="3"></div></div>
+  </div>
+
+  <div class="verdict">
+    <div class="short-verdict">
+      <strong>Overall Verdict: 2.7 / 5<br>Polished Educator with Corporate Vibes</strong><br>
+      Austin presents professionally with structured education but lacks real-time trading evidence.
+    </div>
+    <div class="full-verdict">
+      <p><strong>Transparency  ★★★☆☆ (3/5)</strong><br>
+      • Transparent about course structure and mission.<br>
+      • Trade results or challenge passes not verified.<br>
+      <em>Verdict:</em> Clear brand, light on receipts.</p>
+
+      <p><strong>Proof of Performance  ★★☆☆☆ (2/5)</strong><br>
+      • No verified performance posted publicly.<br>
+      • No FTMO-style track records or myfxbook links.<br>
+      <em>Verdict:</em> Presentation over proof.</p>
+
+      <p><strong>Educational Value  ★★★★☆ (4/5)</strong><br>
+      • Structured learning, courses, and team access.<br>
+      • Professional delivery aimed at long-term growth.<br>
+      <em>Verdict:</em> Strong value in form, not track record.</p>
+
+      <p><strong>Price-to-Value  ★★☆☆☆ (2/5)</strong><br>
+      • Training tiers and memberships can be costly.<br>
+      • No free trials or previews available.<br>
+      <em>Verdict:</em> May be overpriced for unverified content.</p>
+
+      <p><strong>BS Meter  ★★★☆☆ (3/5)</strong><br>
+      • Polished, branded guru with sales energy.<br>
+      • Less hype than average but still selling a dream.<br>
+      <em>Verdict:</em> Polite pitchman, not raw.</p>
+
+      <p><strong>Responsiveness & Attitude  ★★★☆☆ (3/5)</strong><br>
+      • Posts regularly and responds to community.<br>
+      <em>Verdict:</em> Present and professional.</p>
+    </div>
+    <button class="toggle-btn" onclick="toggleReview(this)">Read More</button>
+  </div>
+</div>
+<div class="guru-card" data-score="2.6" data-name="stockmarketwolf" data-bs="3">
+  <div class="guru-header vertical">
+    <div class="guru-name">@stockmarketwolf</div>
+    <div class="top-row">
+      <div class="guru-photo">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEUOk6iDYO3v3XeIdmvUxT0kyhjea_qfBZMw&usqp=CAU" alt="Profile Picture" />
+      </div>
+      <div class="guru-info">
+        <div class="guru-tagline">"Signals and mentorship for consistent profits"</div>
+        <div class="overall-row">
+          <div class="candles" data-score="2.6"></div>
+          <div class="overall-score">2.6</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="ratings">
+    <div class="rating-item">Transparency<div class="candlestick-rating" data-score="3"></div></div>
+    <div class="rating-item">Proof of Performance<div class="candlestick-rating" data-score="2"></div></div>
+    <div class="rating-item">Educational Value<div class="candlestick-rating" data-score="3"></div></div>
+    <div class="rating-item">Price-to-Value<div class="candlestick-rating" data-score="3"></div></div>
+    <div class="rating-item">BS Meter<div class="candlestick-rating" data-score="3"></div></div>
+    <div class="rating-item">Responsiveness<div class="candlestick-rating" data-score="3"></div></div>
+  </div>
+
+  <div class="verdict">
+    <div class="short-verdict">
+      <strong>Overall Verdict: 2.6 / 5<br>Polished Mentor with Marketing Muscle</strong><br>
+      Presents well with community and structure, but falls short on verifiable trading success.
+    </div>
+    <div class="full-verdict">
+      <p><strong>Transparency  ★★★☆☆ (3/5)</strong><br>
+      • Shares client testimonials and win recaps.<br>
+      • No consistent verified data or public records.<br>
+      <em>Verdict:</em> Semi-transparent but controlled.</p>
+
+      <p><strong>Proof of Performance  ★★☆☆☆ (2/5)</strong><br>
+      • Many big trades shown, but no long-term tracking.<br>
+      <em>Verdict:</em> Visual results, not verifiable ones.</p>
+
+      <p><strong>Educational Value  ★★★☆☆ (3/5)</strong><br>
+      • Signals, breakdowns, and mindset material provided.<br>
+      <em>Verdict:</em> Solid for mid-level traders.</p>
+
+      <p><strong>Price-to-Value  ★★★☆☆ (3/5)</strong><br>
+      • Paid group includes lessons, trade calls, and mentorship.<br>
+      <em>Verdict:</em> More structure than most — moderate value.</p>
+
+      <p><strong>BS Meter  ★★★☆☆ (3/5)</strong><br>
+      • Lifestyle-focused branding, but not over-the-top.<br>
+      <em>Verdict:</em> Balanced between motivation and marketing.</p>
+
+      <p><strong>Responsiveness & Attitude  ★★★☆☆ (3/5)</strong><br>
+      • Engaged with followers, posts actively.<br>
+      <em>Verdict:</em> Good presence, reliable energy.</p>
+    </div>
+    <button class="toggle-btn" onclick="toggleReview(this)">Read More</button>
+  </div>
+</div>
+<div class="guru-card" data-score="2.2" data-name="rp.profits" data-bs="2">
+  <div class="guru-header vertical">
+    <div class="guru-name">@rp.profits</div>
+    <div class="top-row">
+      <div class="guru-photo">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWF85KdHPLK5EQKBJcN0yBwJ7Nbswrj6cxXg&s" alt="Profile Picture" />
+      </div>
+      <div class="guru-info">
+        <div class="guru-tagline">"Funded trader helping others succeed"</div>
+        <div class="overall-row">
+          <div class="candles" data-score="2.2"></div>
+          <div class="overall-score">2.2</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="ratings">
+    <div class="rating-item">Transparency<div class="candlestick-rating" data-score="2"></div></div>
+    <div class="rating-item">Proof of Performance<div class="candlestick-rating" data-score="2"></div></div>
+    <div class="rating-item">Educational Value<div class="candlestick-rating" data-score="3"></div></div>
+    <div class="rating-item">Price-to-Value<div class="candlestick-rating" data-score="2"></div></div>
+    <div class="rating-item">BS Meter<div class="candlestick-rating" data-score="2"></div></div>
+    <div class="rating-item">Responsiveness<div class="candlestick-rating" data-score="3"></div></div>
+  </div>
+
+  <div class="verdict">
+    <div class="short-verdict">
+      <strong>Overall Verdict: 2.2 / 5<br>Friendly Guide with Light Proof</strong><br>
+      RP provides encouragement and shows some progress, but lacks full performance transparency.
+    </div>
+    <div class="full-verdict">
+      <p><strong>Transparency  ★★☆☆☆ (2/5)</strong><br>
+      • Claims funded success but doesn’t show actual accounts or pass results.<br>
+      <em>Verdict:</em> Tells, but doesn’t show.</p>
+
+      <p><strong>Proof of Performance  ★★☆☆☆ (2/5)</strong><br>
+      • A few trade screenshots, but no verified consistency or tracking.<br>
+      <em>Verdict:</em> Unverified funding claims.</p>
+
+      <p><strong>Educational Value  ★★★☆☆ (3/5)</strong><br>
+      • Focuses on mindset, risk, and basic analysis in Discord.<br>
+      <em>Verdict:</em> Good for beginners, not advanced traders.</p>
+
+      <p><strong>Price-to-Value  ★★☆☆☆ (2/5)</strong><br>
+      • Paid group offers access and calls, but content is light.<br>
+      <em>Verdict:</em> May not justify recurring cost.</p>
+
+      <p><strong>BS Meter  ★★☆☆☆ (2/5)</strong><br>
+      • Avoids extreme hype but uses phrases like “I’ll get you funded.”<br>
+      <em>Verdict:</em> Light BS — nothing extreme.</p>
+
+      <p><strong>Responsiveness & Attitude  ★★★☆☆ (3/5)</strong><br>
+      • Active with followers and often replies to messages.<br>
+      <em>Verdict:</em> Helpful and present.</p>
+    </div>
+    <button class="toggle-btn" onclick="toggleReview(this)">Read More</button>
+  </div>
+</div>
+<div class="guru-card" data-score="2.0" data-name="keeganvandyk" data-bs="2">
+  <div class="guru-header vertical">
+    <div class="guru-name">@keeganvandyk</div>
+    <div class="top-row">
+      <div class="guru-photo">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbtpSQMweSrx58G18kXvuB3DHCBBpbeaopJA&s" alt="Profile Picture" />
+      </div>
+      <div class="guru-info">
+        <div class="guru-tagline">"Helping others pass funding challenges"</div>
+        <div class="overall-row">
+          <div class="candles" data-score="2.0"></div>
+          <div class="overall-score">2.0</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="ratings">
+    <div class="rating-item">Transparency<div class="candlestick-rating" data-score="2"></div></div>
+    <div class="rating-item">Proof of Performance<div class="candlestick-rating" data-score="1"></div></div>
+    <div class="rating-item">Educational Value<div class="candlestick-rating" data-score="3"></div></div>
+    <div class="rating-item">Price-to-Value<div class="candlestick-rating" data-score="2"></div></div>
+    <div class="rating-item">BS Meter<div class="candlestick-rating" data-score="2"></div></div>
+    <div class="rating-item">Responsiveness<div class="candlestick-rating" data-score="3"></div></div>
+  </div>
+
+  <div class="verdict">
+    <div class="short-verdict">
+      <strong>Overall Verdict: 2.0 / 5<br>Challenge Cheerleader Without Receipts</strong><br>
+      Offers guidance and encouragement, but no proof of success or consistent delivery.
+    </div>
+    <div class="full-verdict">
+      <p><strong>Transparency  ★★☆☆☆ (2/5)</strong><br>
+      • Talks about challenge success but lacks details.<br>
+      <em>Verdict:</em> Low accountability.</p>
+
+      <p><strong>Proof of Performance  ★☆☆☆☆ (1/5)</strong><br>
+      • No track record. No pass links. No equity curves.<br>
+      <em>Verdict:</em> No receipts.</p>
+
+      <p><strong>Educational Value  ★★★☆☆ (3/5)</strong><br>
+      • Encouraging posts and basic content for beginners.<br>
+      <em>Verdict:</em> Light motivation, limited depth.</p>
+
+      <p><strong>Price-to-Value  ★★☆☆☆ (2/5)</strong><br>
+      • Paid Discord. No clarity on offerings or refunds.<br>
+      <em>Verdict:</em> Trust-based payment model.</p>
+
+      <p><strong>BS Meter  ★★☆☆☆ (2/5)</strong><br>
+      • Slight hype around challenge success, without substance.<br>
+      <em>Verdict:</em> Generic hustle messaging.</p>
+
+      <p><strong>Responsiveness & Attitude  ★★★☆☆ (3/5)</strong><br>
+      • Appears to engage and motivate users.<br>
+      <em>Verdict:</em> Good energy, lacks authority.</p>
+    </div>
+    <button class="toggle-btn" onclick="toggleReview(this)">Read More</button>
+  </div>
+</div>
+<div class="guru-card" data-score="2.5" data-name="gstrades" data-bs="3">
+  <div class="guru-header vertical">
+    <div class="guru-name">@gstrades</div>
+    <div class="top-row">
+      <div class="guru-photo">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLVTRituxasf4VeCUGwiH8m5fY9wHds-Z8aA&s" alt="Profile Picture" />
+      </div>
+      <div class="guru-info">
+        <div class="guru-tagline">"Scalping Forex with precision"</div>
+        <div class="overall-row">
+          <div class="candles" data-score="2.5"></div>
+          <div class="overall-score">2.5</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="ratings">
+    <div class="rating-item">Transparency<div class="candlestick-rating" data-score="3"></div></div>
+    <div class="rating-item">Proof of Performance<div class="candlestick-rating" data-score="2"></div></div>
+    <div class="rating-item">Educational Value<div class="candlestick-rating" data-score="3"></div></div>
+    <div class="rating-item">Price-to-Value<div class="candlestick-rating" data-score="2"></div></div>
+    <div class="rating-item">BS Meter<div class="candlestick-rating" data-score="3"></div></div>
+    <div class="rating-item">Responsiveness<div class="candlestick-rating" data-score="3"></div></div>
+  </div>
+
+  <div class="verdict">
+    <div class="short-verdict">
+      <strong>Overall Verdict: 2.5 / 5<br>Scalp-Focused Mentor with Moderate Credibility</strong><br>
+      GS Trades delivers tactical trading guidance, but lacks full proof to back his edge.
+    </div>
+    <div class="full-verdict">
+      <p><strong>Transparency  ★★★☆☆ (3/5)</strong><br>
+      • Shares setups and trade ideas.<br>
+      • Doesn't post consistent results or challenge passes.<br>
+      <em>Verdict:</em> Partial visibility.</p>
+
+      <p><strong>Proof of Performance  ★★☆☆☆ (2/5)</strong><br>
+      • Screenshots shown, but without full context.<br>
+      <em>Verdict:</em> No way to verify accuracy.</p>
+
+      <p><strong>Educational Value  ★★★☆☆ (3/5)</strong><br>
+      • Covers scalping strategies and market structure.<br>
+      <em>Verdict:</em> Strong for certain styles.</p>
+
+      <p><strong>Price-to-Value  ★★☆☆☆ (2/5)</strong><br>
+      • Paid access to Discord and mentorship.<br>
+      • Value depends on trader style fit.<br>
+      <em>Verdict:</em> Mixed depending on your level.</p>
+
+      <p><strong>BS Meter  ★★★☆☆ (3/5)</strong><br>
+      • Occasionally shows big trades or bold calls.<br>
+      <em>Verdict:</em> A little show, but not scammy.</p>
+
+      <p><strong>Responsiveness & Attitude  ★★★☆☆ (3/5)</strong><br>
+      • Engages regularly on Discord and socials.<br>
+      <em>Verdict:</em> Good interaction with followers.</p>
+    </div>
+    <button class="toggle-btn" onclick="toggleReview(this)">Read More</button>
+  </div>
+</div>
+<div class="guru-card" data-score="4.0" data-name="jduntrades" data-bs="2">
+  <div class="guru-header vertical">
+    <div class="guru-name">@jduntrades (J Dun)</div>
+    <div class="top-row">
+      <div class="guru-photo">
+        <img src="https://pbs.twimg.com/profile_images/1811447747225985024/VxJ2mVq6_400x400.jpg" />
+      </div>
+      <div class="guru-info">
+        <div class="guru-tagline">"Systematic Options & Futures Trader"</div>
+        <div class="overall-row">
+          <div class="candles" data-score="4.0"></div>
+          <div class="overall-score">4.0</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="ratings">
+    <div class="rating-item">Transparency<div class="candlestick-rating" data-score="4"></div></div>
+    <div class="rating-item">Proof of Performance<div class="candlestick-rating" data-score="4"></div></div>
+    <div class="rating-item">Educational Value<div class="candlestick-rating" data-score="4"></div></div>
+    <div class="rating-item">Price-to-Value<div class="candlestick-rating" data-score="4"></div></div>
+    <div class="rating-item">BS Meter<div class="candlestick-rating" data-score="2"></div></div>
+    <div class="rating-item">Responsiveness<div class="candlestick-rating" data-score="4"></div></div>
+  </div>
+  <div class="verdict">
+    <div class="short-verdict">
+      <strong>Overall Verdict: 4.0 / 5<br>Experienced and Transparent Trader</strong><br>
+      J Dun offers systematic trading strategies with clear proof of performance and educational content.
+    </div>
+    <div class="full-verdict">
+      <p><strong>Transparency  ★★★★☆ (4/5)</strong><br>• Shares detailed trading strategies and results.<br><em>Verdict:</em> Highly transparent in approach.</p>
+      <p><strong>Proof of Performance  ★★★★☆ (4/5)</strong><br>• Provides consistent performance updates.<br><em>Verdict:</em> Demonstrates reliable trading outcomes.</p>
+      <p><strong>Educational Value  ★★★★☆ (4/5)</strong><br>• Offers educational resources for traders.<br><em>Verdict:</em> Valuable learning materials available.</p>
+      <p><strong>Price-to-Value  ★★★★☆ (4/5)</strong><br>• Services priced appropriately for the value provided.<br><em>Verdict:</em> Good return on investment.</p>
+      <p><strong>BS Meter  ★★☆☆☆ (2/5)</strong><br>• Minimal hype, focuses on realistic expectations.<br><em>Verdict:</em> Low on sensationalism.</p>
+      <p><strong>Responsiveness & Attitude  ★★★★☆ (4/5)</strong><br>• Engages actively with the trading community.<br><em>Verdict:</em> Approachable and helpful.</p>
+    </div>
+    <button class="toggle-btn" onclick="toggleReview(this)">Read More</button>
+  </div>
+</div>
+<div class="guru-card" data-score="3.5" data-name="sci" data-bs="3">
+  <div class="guru-header vertical">
+    <div class="guru-name">@sci (Mann Kong)</div>
+    <div class="top-row">
+      <div class="guru-photo">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Up9HjXfouJOh2NCJpfkT27NqaP7K0s45RQ&s" alt="Profile Picture" />
+      </div>
+      <div class="guru-info">
+        <div class="guru-tagline">"Dedicated to Making Dreams a Reality"</div>
+        <div class="overall-row">
+          <div class="candles" data-score="3.5"></div>
+          <div class="overall-score">3.5</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="ratings">
+    <div class="rating-item">Transparency<div class="candlestick-rating" data-score="3"></div></div>
+    <div class="rating-item">Proof of Performance<div class="candlestick-rating" data-score="3"></div></div>
+    <div class="rating-item">Educational Value<div class="candlestick-rating" data-score="4"></div></div>
+    <div class="rating-item">Price-to-Value<div class="candlestick-rating" data-score="4"></div></div>
+    <div class="rating-item">BS Meter<div class="candlestick-rating" data-score="3"></div></div>
+    <div class="rating-item">Responsiveness<div class="candlestick-rating" data-score="4"></div></div>
+  </div>
+  <div class="verdict">
+    <div class="short-verdict">
+      <strong>Overall Verdict: 3.5 / 5<br>Motivational Content with Educational Value</strong><br>
+      Mann Kong provides inspirational content and educational resources, though transparency could be improved.
+    </div>
+    <div class="full-verdict">
+      <p><strong>Transparency  ★★★☆☆ (3/5)</strong><br>• Shares insights but lacks detailed performance data.<br><em>Verdict:</em> Moderate transparency.</p>
+      <p><strong>Proof of Performance  ★★★☆☆ (3/5)</strong><br>• Some evidence of trading success shared.<br><em>Verdict:</em> Needs more consistent proof.</p>
+      <p><strong>Educational Value  ★★★★☆ (4/5)</strong><br>• Offers valuable educational content.<br><em>Verdict:</em> Strong focus on learning.</p>
+      <p><strong>Price-to-Value  ★★★★☆ (4/5)</strong><br>• Provides good value for the price.<br><em>Verdict:</em> Worth the investment.</p>
+      <p><strong>BS Meter  ★★★☆☆ (3/5)</strong><br>• Balanced content with occasional hype.<br><em>Verdict:</em> Generally realistic.</p>
+      <p><strong>Responsiveness & Attitude  ★★★★☆ (4/5)</strong><br>• Engages well with followers.<br><em>Verdict:</em> Positive and responsive.</p>
+    </div>
+    <button class="toggle-btn" onclick="toggleReview(this)">Read More</button>
+  </div>
+</div>
+<div class="guru-card" data-score="4.2" data-name="tori.trades" data-bs="2">
+  <div class="guru-header vertical">
+    <div class="guru-name">@tori.trades (Victoria Duke)</div>
+    <div class="top-row">
+      <div class="guru-photo">
+        <img src="https://yt3.googleusercontent.com/JEacW1Blz0DPC2TxrBQNRFDMZP7GBgG6tSzFImS-IpPsbzR4pTFJ6FbiBks-Vv3MwXC1Uu97wGs=s900-c-k-c0x00ffffff-no-rj" alt="Profile Picture" />
+      </div>
+      <div class="guru-info">
+        <div class="guru-tagline">"Full-time Futures Trader with 10+ Years Experience"</div>
+        <div class="overall-row">
+          <div class="candles" data-score="4.2"></div>
+          <div class="overall-score">4.2</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="ratings">
+    <div class="rating-item">Transparency<div class="candlestick-rating" data-score="4"></div></div>
+    <div class="rating-item">Proof of Performance<div class="candlestick-rating" data-score="4"></div></div>
+    <div class="rating-item">Educational Value<div class="candlestick-rating" data-score="5"></div></div>
+    <div class="rating-item">Price-to-Value<div class="candlestick-rating" data-score="4"></div></div>
+    <div class="rating-item">BS Meter<div class="candlestick-rating" data-score="2"></div></div>
+    <div class="rating-item">Responsiveness<div class="candlestick-rating" data-score="4"></div></div>
+  </div>
+  <div class="verdict">
+    <div class="short-verdict">
+      <strong>Overall Verdict: 4.2 / 5<br>Experienced Trader with Comprehensive Education</strong><br>
+      Victoria Duke offers in-depth educational content backed by years of trading experience.
+    </div>
+    <div class="full-verdict">
+      <p><strong>Transparency  ★★★★☆ (4/5)</strong><br>• Shares detailed trading strategies and outcomes.<br><em>Verdict:</em> Highly transparent.</p>
+      <p><strong>Proof of Performance  ★★★★☆ (4/5)</strong><br>• Consistent sharing of trading results.<br><em>Verdict:</em> Reliable performance evidence.</p>
+      <p><strong>Educational Value  ★★★★★ (5/5)</strong><br>• Extensive educational resources provided.<br><em>Verdict:</em> Exceptional learning materials.</p>
+      <p><strong>Price-to-Value  ★★★★☆ (4/5)</strong><br>• Offers valuable content at a reasonable price.<br><em>Verdict:</em> Good value for money.</p>
+      <p><strong>BS Meter  ★★☆☆☆ (2/5)</strong><br>• Focuses on realistic expectations.<br><em>Verdict:</em> Low on hype.</p>
+      <p><strong>Responsiveness & Attitude  ★★★★☆ (4/5)</strong><br>• Engages actively with the community.<br><em>Verdict:</em> Approachable and supportive.</p>
+    </div>
+    <button class="toggle-btn" onclick="toggleReview(this)">Read More</button>
+  </div>
+</div>
+<div class="guru-card" data-score="4.3" data-name="gregtradez" data-bs="2">
+  <div class="guru-header vertical">
+    <div class="guru-name">@gregtradez (Gregory Gamburg)</div>
+    <div class="top-row">
+      <div class="guru-photo">
+        <img src="https://yt3.googleusercontent.com/AS2N61iHRhY37DHSZlztVf0ICakDeABIOmlI3FEza3l1zV-y_hEUOdj0ODlXmHcajRrdMryiX3k=s900-c-k-c0x00ffffff-no-rj" />
+      </div>
+      <div class="guru-info">
+        <div class="guru-tagline">"Documented my journey in my highlights"</div>
+        <div class="overall-row">
+          <div class="candles" data-score="4.3"></div>
+          <div class="overall-score">4.3</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="ratings">
+    <div class="rating-item">Transparency<div class="candlestick-rating" data-score="4"></div></div>
+    <div class="rating-item">Proof of Performance<div class="candlestick-rating" data-score="4"></div></div>
+    <div class="rating-item">Educational Value<div class="candlestick-rating" data-score="5"></div></div>
+    <div class="rating-item">Price-to-Value<div class="candlestick-rating" data-score="4"></div></div>
+    <div class="rating-item">BS Meter<div class="candlestick-rating" data-score="2"></div></div>
+    <div class="rating-item">Responsiveness<div class="candlestick-rating" data-score="4"></div></div>
+  </div>
+  <div class="verdict">
+    <div class="short-verdict">
+      <strong>Overall Verdict: 4.3 / 5<br>Transparent Trader with Educational Focus</strong><br>
+      Gregory Gamburg offers a well-documented trading journey, providing valuable educational content to his followers.
+    </div>
+    <div class="full-verdict">
+      <p><strong>Transparency  ★★★★☆ (4/5)</strong><br>• Shares trading journey in highlights.<br><em>Verdict:</em> Highly transparent.</p>
+      <p><strong>Proof of Performance  ★★★★☆ (4/5)</strong><br>• Provides consistent performance updates.<br><em>Verdict:</em> Reliable performance evidence.</p>
+      <p><strong>Educational Value  ★★★★★ (5/5)</strong><br>• Offers extensive educational resources.<br><em>Verdict:</em> Exceptional learning materials.</p>
+      <p><strong>Price-to-Value  ★★★★☆ (4/5)</strong><br>• Provides valuable content at a reasonable price.<br><em>Verdict:</em> Good value for money.</p>
+      <p><strong>BS Meter  ★★☆☆☆ (2/5)</strong><br>• Focuses on realistic expectations.<br><em>Verdict:</em> Low on hype.</p>
+      <p><strong>Responsiveness & Attitude  ★★★★☆ (4/5)</strong><br>• Engages actively with the community.<br><em>Verdict:</em> Approachable and supportive.</p>
+    </div>
+    <button class="toggle-btn" onclick="toggleReview(this)">Read More</button>
+  </div>
+</div>
+<div class="guru-card" data-score="4.0" data-name="quadz" data-bs="2">
+  <div class="guru-header vertical">
+    <div class="guru-name">@quadz</div>
+    <div class="top-row">
+      <div class="guru-photo">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRf1c2NyQb5ztFi9931SCOLpL9lGJMxj3qIw&s" alt="Profile Picture" />
+      </div>
+      <div class="guru-info">
+        <div class="guru-tagline">"Futures and Shares Daytrader"</div>
+        <div class="overall-row">
+          <div class="candles" data-score="4.0"></div>
+          <div class="overall-score">4.0</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="ratings">
+    <div class="rating-item">Transparency<div class="candlestick-rating" data-score="4"></div></div>
+    <div class="rating-item">Proof of Performance<div class="candlestick-rating" data-score="4"></div></div>
+    <div class="rating-item">Educational Value<div class="candlestick-rating" data-score="4"></div></div>
+    <div class="rating-item">Price-to-Value<div class="candlestick-rating" data-score="4"></div></div>
+    <div class="rating-item">BS Meter<div class="candlestick-rating" data-score="2"></div></div>
+    <div class="rating-item">Responsiveness<div class="candlestick-rating" data-score="4"></div></div>
+  </div>
+  <div class="verdict">
+    <div class="short-verdict">
+      <strong>Overall Verdict: 4.0 / 5<br>Transparent Trader with Educational Focus</strong><br>
+      @quadz offers consistent trading insights and educational content, maintaining transparency and engaging with the community.
+    </div>
+    <div class="full-verdict">
+      <p><strong>Transparency  ★★★★☆ (4/5)</strong><br>• Shares trading journey and strategies openly.<br><em>Verdict:</em> Highly transparent.</p>
+      <p><strong>Proof of Performance  ★★★★☆ (4/5)</strong><br>• Provides consistent performance updates.<br><em>Verdict:</em> Reliable performance evidence.</p>
+      <p><strong>Educational Value  ★★★★☆ (4/5)</strong><br>• Offers educational resources and mentorship.<br><em>Verdict:</em> Valuable learning materials.</p>
+      <p><strong>Price-to-Value  ★★★★☆ (4/5)</strong><br>• Provides valuable content at a reasonable price.<br><em>Verdict:</em> Good value for money.</p>
+      <p><strong>BS Meter  ★★☆☆☆ (2/5)</strong><br>• Focuses on realistic expectations.<br><em>Verdict:</em> Low on hype.</p>
+      <p><strong>Responsiveness & Attitude  ★★★★☆ (4/5)</strong><br>• Engages actively with the community.<br><em>Verdict:</em> Approachable and supportive.</p>
+    </div>
+    <button class="toggle-btn" onclick="toggleReview(this)">Read More</button>
+  </div>
+</div>
+
